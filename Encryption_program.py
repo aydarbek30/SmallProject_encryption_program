@@ -9,9 +9,6 @@ key = chars.copy()
 
 random.shuffle(key)
 
-def kekus (request):
-    return
-
 
 #ENCRYPT
 plain_text = input("Enter a message to encrypt: ")
