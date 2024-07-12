@@ -1,3 +1,3 @@
-Encryption program on python
+Encryption program
 ----------------------------
-Nothing special
+small project
